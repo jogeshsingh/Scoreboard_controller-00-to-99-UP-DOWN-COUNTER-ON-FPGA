@@ -8,3 +8,5 @@ This Project invloves the functionality of typical SCOREBOARD_Controller which c
 ![scoreboard_synthesized](https://user-images.githubusercontent.com/98607828/180726942-7c5c4cbc-403f-4dd9-8a89-70fc5e789ac5.jpg)
 ![scoreImplemenetd](https://user-images.githubusercontent.com/98607828/180726957-f0c36452-a489-4f52-abe7-f27f59df3c13.jpg)
 ![scoreboard_controller_sim](https://user-images.githubusercontent.com/98607828/180727037-eb4a943f-d7cb-4662-b8b7-719db681b46b.jpg)
+# Video Link
+https://youtu.be/FeRQhGpnJXs
